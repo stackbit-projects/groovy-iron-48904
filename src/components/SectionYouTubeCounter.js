@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import {markdownify} from '../utils';
 
-export default class SectionHero extends React.Component {
+export default class SectionYouTubeCounter extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         return (
