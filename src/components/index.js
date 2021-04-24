@@ -34,5 +34,6 @@ export default {
     SectionContent,
     SectionForm,
     SectionHero,
-    SectionPosts
+    SectionPosts,
+    SectionYouTubeCounter
 };
