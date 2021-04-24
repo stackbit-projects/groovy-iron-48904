@@ -20,7 +20,8 @@ export {
     SectionContent,
     SectionForm,
     SectionHero,
-    SectionPosts
+    SectionPosts,
+    SectionYouTubeCounter
 };
 
 export default {
