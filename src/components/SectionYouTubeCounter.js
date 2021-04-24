@@ -2,7 +2,6 @@ import React from 'react';
 import _ from 'lodash';
 
 import {markdownify} from '../utils';
-import CtaButtons from './CtaButtons';
 
 export default class SectionHero extends React.Component {
     render() {
