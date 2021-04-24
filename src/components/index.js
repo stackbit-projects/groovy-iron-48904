@@ -8,7 +8,7 @@ import SectionContent from './SectionContent';
 import SectionForm from './SectionForm';
 import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
-import SectionPosts from './SectionPosts';
+import SectionYouTubeCounter from './SectionYouTubeCounter';
 
 export {
     CtaButtons,
