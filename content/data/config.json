@@ -83,7 +83,7 @@
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
-                "icon_class": "facebook",
+                "icon_class": "linkedin",
                 "new_window": true,
                 "no_follow": true,
                 "type": "action"
