@@ -12,6 +12,9 @@ export default class SectionYouTubeCounter extends React.Component {
                     <h1>
                         YouTube Subscribers Counter
                     </h1>
+                    <p>
+                        
+                    </p>
                 </div>
             </section>
         );
