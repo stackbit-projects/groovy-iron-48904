@@ -10,7 +10,7 @@ export default class SectionYouTubeCounter extends React.Component {
             <section id={_.get(section, 'section_id', null)} className="youtubecounter">
                 <div>
                     <h1>
-                        
+                        YouTube Subscribers Counter
                     </h1>
                 </div>
             </section>
