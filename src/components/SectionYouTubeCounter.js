@@ -8,7 +8,11 @@ export default class SectionYouTubeCounter extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className="youtubecounter">
-                
+                <div>
+                    <h1>
+                        
+                    </h1>
+                </div>
             </section>
         );
     }
